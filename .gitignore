@@ -1,2 +1,10 @@
 __pycache__/
 *.pyc
+# VitePress / Node
+vitePress/node_modules/
+vitePress/.vitepress/cache/
+vitePress/.vitepress/dist/
+vitePress/docs/.vitepress/cache/
+vitePress/docs/.vitepress/dist/
+vitePress/.DS_Store
+
