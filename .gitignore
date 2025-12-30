@@ -7,4 +7,5 @@ vitePress/.vitepress/dist/
 vitePress/docs/.vitepress/cache/
 vitePress/docs/.vitepress/dist/
 vitePress/.DS_Store
+convertMarkdown/output.pdf
 
